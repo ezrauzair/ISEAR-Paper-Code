@@ -36,7 +36,9 @@ This repository features 10 unique Jupyter notebooks, each representing one of t
 🔟 XLNet-based-cased
 
 🎯 Key Results
+
 Dataset: ISEAR dataset, annotated with 7 emotions: anger, joy, sadness, fear, disgust, guilt, and shame.
+
 🏆 Top Performer: The DeBERTa-v3-large + CNN hybrid model achieved a remarkable accuracy of 94.94%, excelling in classifying subtle emotions like shame and disgust.
 ⭐ Strong Models: Electra-base-discriminator and XLNet-based-cased, with accuracies of 93%.
 
