@@ -1,4 +1,5 @@
 🌟 Enhancing emotion classification on the ISEAR dataset using fine-tuning and data augmentation with hybrid transformer models
+
 This repository contains the complete implementation of our research on fine-grained emotion classification using hybrid transformer models and data augmentation 
 techniques.
 
@@ -9,7 +10,9 @@ Emotion detection is a key task in Natural Language Processing (NLP), with appli
 *  Social media sentiment analysis
 
 🗂️ Repository Highlights
+
 🚀 Models Included
+
 This repository features 10 unique Jupyter notebooks, each representing one of the following models:
 
 1️⃣ DeBERTa-v3-large + CNN (Hybrid) 
@@ -19,11 +22,17 @@ This repository features 10 unique Jupyter notebooks, each representing one of t
 3️⃣ Electra + CNN (Hybrid)
 
 4️⃣ Electra-base-discriminator
+
 5️⃣ RoBerta + CNN (Hybrid)
+
 6️⃣ RoBerta-base
+
 7️⃣ T5-base + CNN (Hybrid)
+
 8️⃣ T5-base
+
 9️⃣ XLNet-based-cased + CNN (Hybrid)
+
 🔟 XLNet-based-cased
 
 🎯 Key Results
